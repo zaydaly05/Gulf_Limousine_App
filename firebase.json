@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "gulf-limousine-travel",
+          "appId": "1:95429561014:android:c12c4b753467d1c1bfb417",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "gulf-limousine-travel",
+          "configurations": {
+            "android": "1:95429561014:android:c12c4b753467d1c1bfb417",
+            "ios": "1:95429561014:ios:fffb76aaf34b5efbbfb417",
+            "macos": "1:95429561014:ios:fffb76aaf34b5efbbfb417",
+            "web": "1:95429561014:web:36fdea627781e819bfb417",
+            "windows": "1:95429561014:web:94a8ce6fb24876b0bfb417"
+          }
+        }
+      }
+    }
+  }
+}

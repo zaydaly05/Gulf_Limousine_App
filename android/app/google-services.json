@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "95429561014",
+    "project_id": "gulf-limousine-travel",
+    "storage_bucket": "gulf-limousine-travel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95429561014:android:c12c4b753467d1c1bfb417",
+        "android_client_info": {
+          "package_name": "com.example.g_l_t_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95429561014-am9h7f4pr747mv695vv2vcl0ovsgm6ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.g_l_t_final",
+            "certificate_hash": "ebe364b45a2a28270ce35f3026343c0807cd0e6c"
+          }
+        },
+        {
+          "client_id": "95429561014-q1f30i3l7jgb1cg5e0vm1piai7kc6pij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuU9mfGretUm3t1o47U4kc2v30dmGCN6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95429561014-q1f30i3l7jgb1cg5e0vm1piai7kc6pij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95429561014-kobrj51j7dms1tefia39j3o8f8bt2ma6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gLTFinal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95429561014:android:3b89a82a88d246bfbfb417",
+        "android_client_info": {
+          "package_name": "com.example.gulf_limousine_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95429561014-arfe7husc168ichd46an3194vhiq7tjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gulf_limousine_travel",
+            "certificate_hash": "ebe364b45a2a28270ce35f3026343c0807cd0e6c"
+          }
+        },
+        {
+          "client_id": "95429561014-q1f30i3l7jgb1cg5e0vm1piai7kc6pij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuU9mfGretUm3t1o47U4kc2v30dmGCN6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95429561014-q1f30i3l7jgb1cg5e0vm1piai7kc6pij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95429561014-kobrj51j7dms1tefia39j3o8f8bt2ma6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gLTFinal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
